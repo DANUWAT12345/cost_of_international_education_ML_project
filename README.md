@@ -7,10 +7,10 @@
 - 6770249321 Norrawich Jitaree  
 
 ### Links:
-- Colab: https://colab.research.google.com/dri...
-- Google Drive (data, notebook, slides, video): https://drive.google.com/drive/folder...
-- Dataset: https://www.kaggle.com/datasets/adilshamim8/cost-of-international-education
-
+- Colab: [https://colab.research.google.com/dri...](https://colab.research.google.com/drive/1PkIdk3FEYIXMMlpZGecEQIsQcG9lmlJh?usp=sharing)
+- Google Drive (data, notebook, slides, video): [https://drive.google.com/drive/folder...](https://drive.google.com/drive/folders/1CsV_r9vZkq_An28OhQJd3wrR15dZlIMO)
+- Dataset: [https://www.kaggle.com/datasets/adilshamim8/cost-of-international-education](https://www.kaggle.com/datasets/adilshamim8/cost-of-international-education)
+- Youtube Presentation : https://www.youtube.com/watch?v=G2bZJkDslK0
 ## Overview
 
 We analyzed the cost of studying in different countries using K-Means clustering. The data includes tuition, living cost, rent, visa, and insurance.
