@@ -1,35 +1,40 @@
-# Project Title: Cost of International Education Analysis using K-Means Clustering
+# Cost of International Education using K-Means Clustering
 
-**Project Description: This project aims to analyze the cost of international education across different countries using machine learning techniques. Specifically, it leverages the K-Means clustering algorithm to group countries based on various cost factors such as tuition fees, living costs, rent, visa fees, and insurance.**
+## Group: ABC Analysis
 
-# Key Steps:
+### Members:
+- 672037021 Danuwat Maoleethong  
+- 6770249321 Norrawich Jitaree  
 
-**Data Acquisition:** The project utilizes a dataset from Kaggle ("adilshamim8/cost-of-international-education").
+### Links:
+- Colab: https://colab.research.google.com/dri...
+- Google Drive (data, notebook, slides, video): https://drive.google.com/drive/folder...
+- Dataset: https://www.kaggle.com/datasets/adilshamim8/cost-of-international-education
 
-**Data Cleaning and Preprocessing:** The data undergoes a cleaning process to handle missing values and remove irrelevant entries. Numerical features are then standardized using StandardScaler to ensure consistent scaling.
+## Overview
 
-**Clustering with K-Means:** The K-Means algorithm is applied to the preprocessed data to identify clusters. The optimal number of clusters is determined using the Elbow method.
+We analyzed the cost of studying in different countries using K-Means clustering. The data includes tuition, living cost, rent, visa, and insurance.
 
-**Visualization and Analysis:** Cluster results are visualized using scatter plots and maps to gain insights into the characteristics of each cluster.
+## Steps
 
-**Prediction:** A prediction model is built using the trained K-Means model to predict the cluster for new data points. 
+1. Got the dataset from Kaggle  
+2. Cleaned and standardized the data  
+3. Used the Elbow Method to find the best number of clusters  
+4. Applied K-Means to group similar countries  
+5. Visualized results with charts and maps  
+6. Built a function to predict cluster from new data
 
-# Technologies Used:
+## Tools Used
 
-Python
-Pandas
-Scikit-learn (KMeans, StandardScaler)
-Matplotlib
-Seaborn
-Geopandas
+- Python  
+- Pandas  
+- Scikit-learn  
+- Matplotlib  
+- Seaborn  
+- GeoPandas
 
-# Potential Applications:
+## Use Case
 
-This analysis can provide valuable information for students planning to study abroad, helping them understand the potential costs associated with different countries.
-Educational institutions can use these insights to benchmark their tuition fees and living costs against similar institutions in other countries.
-Policymakers can utilize this information to make informed decisions regarding education funding and international student policies.
-
-# Contributions:
-
-Feel free to contribute to this project by suggesting improvements to the data analysis, visualization, or prediction model.
-You can also contribute by adding new features to the dataset or exploring different clustering techniques.
+- Students can compare study costs  
+- Schools can benchmark their fees  
+- Governments can use it for policy planning
